@@ -1,0 +1,37 @@
+.button{
+    font-size: 18px;
+    color: white;
+    text-align: center;
+    display: inline;
+}
+
+.container{
+    width: 2000px;
+    height: 24px;
+    display: flex;
+    justify-content: center;
+}
+
+.content_value{
+    width: 10px;
+    height: 30px;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.content_input{
+    width: 40px;
+    height: 30px;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.content{
+    width: 60px;
+    height: 30px;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+}
